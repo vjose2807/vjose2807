@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose</h1>
-<h3 align="center">I am a full-stack programmer with expertise in backend development and experience in agile methodologies and collaborative tools. My passion lies in building robust solutions that drive project success. I began my journey in electronic engineering, where I discovered my interest in programming. Despite the challenges I faced, I decided to pursue my true calling and focus on web development.</h3>
+<h3 align="center">I am a full-stack programmer with experience in agile methodologies and collaborative tools. My passion lies in building robust solutions that drive project success. I began my journey in electronic engineering, where I discovered my interest in programming. Despite the challenges I faced, I decided to pursue my true calling and focus on web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjose2807&label=Profile%20views&color=0e75b6&style=flat" alt="vjose2807" /> </p>
 
