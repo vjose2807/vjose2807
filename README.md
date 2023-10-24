@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjose2807&label=Profile%20views&color=0e75b6&style=flat" alt="vjose2807" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://vjose2807.netlify.app](https://vjose2807.netlify.app)
+- 👨‍💻 All of my projects are available at [https://vjose2807.netlify.app](https://lizandrp.netlify.app)
 
 - 💬 Ask me about **react, redux, javascript, express, nodejs and Sequelize**
 
